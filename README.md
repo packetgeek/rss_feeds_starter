@@ -294,4 +294,4 @@ This is basically a beginning user's list of security, hardware, and pentesting 
 * URL (soon-to-be published advisories): https://www.zerodayinitiative.com/advisories/upcoming/
 * Feed (soon-to-be published advisories): https://www.zerodayinitiative.com/rss/upcoming
 
-Remember, it's not really a blog unless it allows comments and has at least one RSS feed.  Anything else is probably trying to sell you something.
+Remember, it's not really a blog unless it allows comments and has at least one RSS feed.  Anything else viewed with suspicion.
